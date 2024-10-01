@@ -31,7 +31,7 @@ A control system that can track changes of code and allow multiple people to wor
 <strong>Github</strong><br>
 Web-based platform for hosting Git Repositories. <br>
 <strong>Merge</strong><br>
-Combing code from one branch to another. <br>
+Combining code from one branch to another. <br>
 <strong>Merge Conflict</strong><br>
 Occurs when two branches can not be combined. <br>
 <strong>Push</strong><br>
